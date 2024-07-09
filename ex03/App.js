@@ -1,6 +1,6 @@
 /* App Module */
 module.exports = function(){
     var app = {};
-    app.textContent = 'Hello World';
+    app.textContents = 'Hello World';
     return app;
 }
